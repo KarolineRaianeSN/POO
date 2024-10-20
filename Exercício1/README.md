@@ -49,8 +49,12 @@ No contexto de um jogo de vôlei, os objetos poderiam ser:
 - **Atributos:** duração, local, tipo, quantidade de jogadores, placar, time1, time2.
 - **Métodos:** `iniciar_partida()`, `pausar()`, `adicionar_jogador()`, `remover_jogador()`, `finalizar_partida()`.
 
-## Links úteis
+## 7.
 
 - [Retângulo](https://github.com/KarolineRaianeSN/POO/blob/fad17d2d0904a0c2825d0e0b462994dbbeacdeb5/Exerc%C3%ADcio1/Retangulo.ts)
+
+## 8.
 - [Círculo](https://github.com/KarolineRaianeSN/POO/blob/fad17d2d0904a0c2825d0e0b462994dbbeacdeb5/Exerc%C3%ADcio1/Circulo.ts)
+
+## 9.
 - [Situação Financeira](https://github.com/KarolineRaianeSN/POO/blob/fad17d2d0904a0c2825d0e0b462994dbbeacdeb5/Exerc%C3%ADcio1/SituacaoFinanceira.ts)
