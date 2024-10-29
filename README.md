@@ -55,3 +55,4 @@ No contexto de um jogo de vôlei, os objetos poderiam ser:
 - [Círculo](https://github.com/KarolineRaianeSN/POO/blob/fad17d2d0904a0c2825d0e0b462994dbbeacdeb5/Exerc%C3%ADcio1/Circulo.ts)
 - [Situação Financeira](https://github.com/KarolineRaianeSN/POO/blob/fad17d2d0904a0c2825d0e0b462994dbbeacdeb5/Exerc%C3%ADcio1/SituacaoFinanceira.ts)
 
+# Exercicio Extra 2
